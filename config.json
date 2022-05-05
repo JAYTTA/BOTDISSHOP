@@ -1,0 +1,12 @@
+{
+    "mysql": {
+        "database": "ShiFdOxUlK",
+        "host": "remotemysql.com",
+        "port": "3306",
+        "password": "2RDvtnuMel",
+        "user": "ShiFdOxUlK"
+    },
+    "discord": {
+        "bot_token": "OTY5OTI3ODAzNTc3NDUwNTU2.GOk6UK.Za1TZ8j2Agh5y7Gv3gq7NKGQvM2fLiKTa3hU8w"
+    }
+}
